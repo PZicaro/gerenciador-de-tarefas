@@ -8,7 +8,8 @@ public class GerenciadorTarefasApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(GerenciadorTarefasApplication.class, args);
-		System.out.println("olátudo deu certo");
+		
+		 
 	}
 
 }
